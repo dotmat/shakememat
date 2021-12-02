@@ -1,0 +1,29 @@
+{
+  "name": "shakememat",
+  "version": "0.0.1",
+  "description": "ShakeMeMat - Mobile Accelerometer Game for PubNub Demo.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "html"
+  ],
+  "author": "Mathew Jenkinson",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cryptr": "^6.0.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mustache-express": "^1.3.0",
+    "path": "^0.12.7",
+    "pubnub": "^4.34.1",
+    "xml2json": "^0.12.0"
+  }
+}
